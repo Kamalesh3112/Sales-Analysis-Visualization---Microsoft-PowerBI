@@ -24,11 +24,18 @@ In this visualization, I have developed an dashboard which analyses the integrit
 I have uploaded the business intelligence project in the form of pdf file format as I have extracted from powerBI user dashboard for in the case of ease of viewing and analyzing. It is available as the deployment version in PowerBI public mode.
 
 Microsoft PowerBI Visualization Steps to accomplish an complete dashboard:
+
  % Finding and integrating the right amount of data with null point labels or values.
+ 
  % Importing the data into the PowerBI environment.
+ 
  % Analysing the type of data and ensuring that every labels and values are filled with the right data.
+ 
  % Confirming the data to be used in the report.
+ 
  % Visualizing the data 
+ 
  % Deploying the data into the deployment zone of the Business Intelligence.(Deployment means publishing as the public version viewing the report.
 
-v
+![image](https://user-images.githubusercontent.com/72293918/151762089-71b093b9-7d86-4e78-a58d-639d996a3380.png)
+
