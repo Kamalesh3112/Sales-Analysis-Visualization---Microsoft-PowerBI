@@ -41,3 +41,5 @@ Microsoft PowerBI Visualization Steps to accomplish an complete dashboard:
 
 You can view as one part of the dashboard report that I have created using PowerBI here below:
 ![Dashboard](https://user-images.githubusercontent.com/72293918/151762352-54cc6178-7d49-4de5-9a7b-1a22be04ee67.PNG)
+
+Dataset for the sales analysis report is given in the files above
