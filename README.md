@@ -39,3 +39,4 @@ Microsoft PowerBI Visualization Steps to accomplish an complete dashboard:
 
 ![image](https://user-images.githubusercontent.com/72293918/151762089-71b093b9-7d86-4e78-a58d-639d996a3380.png)
 
+![Dashboard](https://user-images.githubusercontent.com/72293918/151762352-54cc6178-7d49-4de5-9a7b-1a22be04ee67.PNG)
