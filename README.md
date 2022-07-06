@@ -5,15 +5,15 @@ Sales analysis is the process of integrating, analyzing, and understanding vario
 
 Importance and benefits of sales analysis:
  
- % Make data-driven decisions instead of relying on gut instinct.
+ - Make data-driven decisions instead of relying on gut instinct.
  
- % Find your most profitable customers.
+ - Find your most profitable customers.
  
- % Get awareness on the market trends.
+ - Get awareness on the market trends.
  
- % Get awareness on the market trends.
+ - Get awareness on the market trends.
  
- # Data Visualization Applicational Technique used : Microsoft PowerBI
+ - Data Visualization Applicational Technique used : Microsoft PowerBI
 
 Data Visualization Tools refer to all forms of software designed to visualize data. Different tools can contain varying features but, at their most basic, data visualization tools will provide you with the capabilities to input datasets and visually manipulate them.
  
