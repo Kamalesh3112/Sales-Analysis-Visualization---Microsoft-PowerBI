@@ -25,17 +25,17 @@ I have uploaded the business intelligence project in the form of pdf file format
 
 Microsoft PowerBI Visualization Steps to accomplish an complete dashboard:
 
- % Finding and integrating the right amount of data with null point labels or values.
+ - Finding and integrating the right amount of data with null point labels or values.
  
- % Importing the data into the PowerBI environment.
+ - Importing the data into the PowerBI environment.
  
- % Analysing the type of data and ensuring that every labels and values are filled with the right data.
+ - Analysing the type of data and ensuring that every labels and values are filled with the right data.
  
- % Confirming the data to be used in the report.
+ - Confirming the data to be used in the report.
  
- % Visualizing the data 
+ - Visualizing the data 
  
- % Deploying the data into the deployment zone of the Business Intelligence.(Deployment means publishing as the public version viewing the report.
+ - Deploying the data into the deployment zone of the Business Intelligence.(Deployment means publishing as the public version viewing the report.
 
 ![image](https://user-images.githubusercontent.com/72293918/151762089-71b093b9-7d86-4e78-a58d-639d996a3380.png)
 
