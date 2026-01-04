@@ -3,6 +3,8 @@ Sales analysis is mining your data to evaluate the performance of your sales tea
 
 Sales analysis is the process of integrating, analyzing, and understanding various data related to sales activities such as sales, customers, and transaction data. It allows managers to look at sales from many aspects and decide what is working and what is not working.
 
+Fabric dashboard: [View Power BI Report](https://app.fabric.microsoft.com/groups/me/reports/9591be36-edc6-413d-ae73-6fe69f8846b9?ctid=89ff20e2-84ed-4e10-bee8-5c9c57dcc73a&pbi_source=linkShare&bookmarkGuid=be1e4eeb-f569-4254-899d-6d9653fb7ef8)
+
 Importance and benefits of sales analysis:
  
  - Make data-driven decisions instead of relying on gut instinct.
